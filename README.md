@@ -1,7 +1,8 @@
-## Try it
+## Fake API
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+This is a "fake API" that serves like a Back-end Server.
+It provides data to the [Front-end](https://github.com/guilhermerodz/bootcamp-challenge-07) mobile App made with **React Native** and **Redux**.
 
-## Use your own data
+## Data?
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Data at `db.json` file.
